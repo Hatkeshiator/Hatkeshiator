@@ -16,7 +16,7 @@ Additionally, if you wish to be a refined, discerning gentleman, the following f
 
 ### "I shall, to the best of my ability, avoid language that is profane, overly elaborate, or inherently insulting. I shall speak and write in a manner that the youngest of children listening to me shall find me as insightful as the wisest of men."
 ### "I shall not offer help, for that is beneath me, but I shall certainly try my best to help when asked."
-### "I shall not lie or bear false witness; this includes correcting that false witness borne by others."
+### "I shall not lie or bear false witness; this also means I corect that false witness borne by others."
 ### "I bear no responsibility or allegiance for actions and words other than my own, and those from the Heavens."
 ### "I shall not have to be defended by others. I shall make myself always stronger than any foe."
 ### "I shall sharpen my wit such that I become impossible to lie to."
