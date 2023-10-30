@@ -6,7 +6,7 @@ I love The Legend of Zelda: Skyward Sword. I love the Lord of the Rings books. I
 up on the internet and I love it here to a fault. I always love to help out but I may
 not always be able, either because I'm still learning in general or I am literally in
 class at the time.
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGT3R+EBDACkSOjpYzbR9v+sAklWUfrc1DcTgXoiF2gK1uoS3pwnaWiXFc86
@@ -48,3 +48,4 @@ q3P5tah1eeCdB9h6Bfk3Bc5qnsgMKX/vqW5acORayYqYUgYlSSWzX3ny69Wa+6EE
 eWPVM3KWaUpusgKSdLYzPIPQ8wRRtl5RoRLQl4E=
 =4nkL
 -----END PGP PUBLIC KEY BLOCK-----
+```
