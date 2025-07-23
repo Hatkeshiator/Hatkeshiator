@@ -17,3 +17,5 @@ I use XLibre fork of X and actively avoid Wayland.
 I actively avoid using projects associated with Rust, Wayland, SystemD, and other
 inferior replacements of established tools. I make exception only for tools I myself
 find useful, such as the Helix text editor.
+
+find my personal eepsite at [fee.i2p](http://fee.i2p/?i2paddresshelper=2oaq36sk6sknadfm6udcczcjoy6tt5mjmuixpubu54mkei45duta.b32.i2p) (requires i2p)
