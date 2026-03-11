@@ -13,9 +13,9 @@ Formerly a GNU/Linux Mint user for 13 years, then used Windows out of obligation
 as my daily driver.
 
 I use XMonad WM with a custom configuration file, which you can find in this directory.
-I use XLibre fork of X and actively avoid Wayland.
+I use XLibre fork of Xorg's X11 server and actively avoid Wayland.
 I actively avoid using projects associated with Rust, Wayland, SystemD, and other
 inferior replacements of established tools. I make exception only for tools I myself
 find useful, such as the Helix text editor.
 
-find my personal eepsite at [fee.i2p](http://fee.i2p/?i2paddresshelper=2oaq36sk6sknadfm6udcczcjoy6tt5mjmuixpubu54mkei45duta.b32.i2p) (requires i2p)
+find my personal eepsite at 2oaq36sk6sknadfm6udcczcjoy6tt5mjmuixpubu54mkei45duta.b32.i2p (requires i2p)
